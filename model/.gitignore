@@ -1,0 +1,5 @@
+.DS_Store
+glove/*
+*.h5
+*.pickle
+
